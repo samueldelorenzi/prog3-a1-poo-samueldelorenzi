@@ -1,5 +1,8 @@
 # Sistema de Registro de Usuários com PHP - Programação III
 
+- Criado por: Samuel De Lorenzi Ribeiro
+- Turma: Ciência da Computação - Campus Videira
+
 Projeto desenvolvido para a disciplina de **Programação III** do curso de **Ciência da Computação - UNOESC**, orientado pelo professor **Leandro Otavio Cordova Vieira**.
 
 ## 👨‍💻 Descrição
@@ -36,3 +39,31 @@ Este projeto consiste em uma aplicação web simples desenvolvida com **PHP puro
 └── style
     └── style.css
 ```
+
+## 🚀 Requisitos e Dependências
+
+- PHP: Versão 8.4.1 ou superior (versões mais antigas podem funcionar, porém não foram testadas).
+
+- Servidor Web: Apache.
+
+- Extensões PHP: Session e hash.
+
+- Navegador: Qualquer navegador moderno.
+
+## 📃 Instruções de Instalação
+
+### Clonar o Repositório:
+Clone o projeto para o seu ambiente local:
+
+```bash
+git clone https://github.com/samueldelorenzi/prog3-a1-poo-samueldelorenzi
+```
+
+### Configuração do Servidor:
+Configure seu ambiente de desenvolvimento para apontar para a pasta raiz do projeto.
+
+### Permissões:
+Verifique se a pasta possui as permissões corretas para escrita e leitura.
+
+## 📈 Utilização
+Por fim basta acessar ```http://localhost/prog3-a1-poo-samueldelorenzi/``` no navegador e utilizar os botões para navegar pelas páginas.
